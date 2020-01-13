@@ -19,6 +19,10 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** interactive 1-hour course to learn the very basics of web development\
 *(HTML, CSS, JavaScript, SQL)*
 
+#### [UpLeveled Learning Platform](https://learn.upleveled.io/)
+**Freemium** platform for learning the basics of web development\
+*(HTML, CSS, JavaScript)*
+
 #### [Treehouse](https://teamtreehouse.com/subscribe/plans?cid=1178&discount_code=REDDITLEARN100)
 **Commercial** platform for courses how to build websites & apps\
 *(Web Design, Front End Web Development, Rails, iOS, Android, PHP)*
@@ -66,6 +70,26 @@ This list aims to be a curated set of high quality educational resources. The co
 #### [GitHub Learning Lab](https://lab.github.com/)
 **Free** Self paced, interactive projects to learn Git and GitHub. Created and maintained by GitHub's training team.\
 *(Git, GitHub)*
+
+#### [Grid Garden](https://cssgridgarden.com/)
+**Free** game that teaches the CSS grid system created by [@thomaspark](https://github.com/thomaspark)\
+*(CSS)*
+
+#### [Hexlet.io](https://en.hexlet.io)
+**Mixed** Self paced, interactive projects to learn JavaScript, C, Regular Expressions and computer science in general.  
+*(JavaScript, Regular Expressions, Bash, computer science, Ansible)*
+
+#### [Programming Historian](https://programminghistorian.org/en/lessons/)
+**Free** Peer reviewed introductory courses for digital humanists.\
+*(Python, R, Unity, QGIS, HTML, Regular Expressions)*
+
+#### [Software Carpentry](https://software-carpentry.org/lessons/)
+**Free** Foundational coding and data science skills for researchers.\
+*(Python, R, OpenRefine, Unix Shell, Git)*
+
+#### [Hyperskill by JetBrains Academy](https://hi.hyperskill.org/)
+**Free** teaches programming in Java by creating small applications built step by step\
+*(Java, OOP, Gradle, Maven, Spring Boot)*
 
 ## Intermediate
 
@@ -129,17 +153,30 @@ This list aims to be a curated set of high quality educational resources. The co
 **Free** programming course material for beginner, intermediate and advanced levels\
 *(Python, JavaScript, Data Science, artificial intelligence, machine learning, AR & VR)*
 
+#### [Wes Bos](https://wesbos.com/courses/)
+**Mixed** guided video courses to build products using new technologies\
+*(JavaScript, CSS, React, Node.js, GraphQL, Redux)*
+ 
 ## Advanced
+
+
+#### [Paqmind](http://paqmind.com)
+**Free** Quiz your knowledge of programming\
+*(JavaScript, Node.js, React, functional programming)*
 
 #### [MIT Courseware](https://ocw.mit.edu/courses/find-by-topic/#cat=engineering&subcat=computerscience)
 **Free** courses from MIT on advanced computer science topics\
 *(varied and extensive computer science topics, C, C++, ..)*
 
-#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
-**Free** platform for courses from the top universities and organizations worldwide\
+#### [EDX](https://www.edx.org/course/subject/computer-science)
+**Free** courses from Harvard, MIT, and other universities\
 *(varied computer science subjects including theory and programming, data science, algorithms, ...)*
 
-#### [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
+#### [Coursera](https://www.coursera.org/courses?categories=cs-ai,cs-programming,cs-systems,cs-theory,infotech)
+**Free** platform for courses from universities and organizations worldwide\
+*(varied computer science subjects including theory and programming, data science, algorithms, ...)*
+
+#### [Awesome CS Courses](https://github.com/prakhar1989/awesome-courses/blob/master/README.md)
 **Free** university-level courses scoured from around the internet.\
 *(varied and extensive computer science topics, ...)*
 
